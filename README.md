@@ -1,6 +1,6 @@
 # 👋 Heya!
 ## 🌺 Rishabh Yadav 
-- 💟 Pationate and Enthusiastic about Information Security.
+- 💟 Passionate and Enthusiastic about Information Security.
 - 😌 Self Motivated
 - 👨‍💼 Good Listner
 - 🏔️ Likes to Travel and Trek ✈️
