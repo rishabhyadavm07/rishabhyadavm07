@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
 <h3 align="center">A passionate Information Security Researcher and newbie in Penetration Testing</h3>
 
-<p align="left"> <a href="https://twitter.com/rishabhyadavm07" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhyadavm07?logo=twitter&style=for-the-badge" alt="rishabhyadavm07" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rishabhyadavm07" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhyadavm07?logo=twitter&style=for-the-badge" alt="rishabhyadavm07" /></a> </p>
 
 - 🌱 I’m currently learning **Penetration Testing and Programming**
 
