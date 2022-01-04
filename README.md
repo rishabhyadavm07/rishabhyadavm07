@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **making tools used in pentests**
 
-- 📫 Contact me [**here*](mailto:rishabhyadavm07@gmail.com)
+- 📫 Contact me [**here**](mailto:rishabhyadavm07@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
