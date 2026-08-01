@@ -1,11 +1,6 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically switches based on the viewer's light/dark mode -->
+<!-- ===== HERO BANNER ===== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/hero-light.svg">
-  <img alt="Rishabh Yadav" width="100%" src="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/hero-light.svg">
-</picture>
+<img alt="Rishabh Yadav" width="100%" src="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/hero.svg">
 
 <!-- ===== GITHUB STATS ===== -->
 
