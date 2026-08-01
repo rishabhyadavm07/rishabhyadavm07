@@ -2,9 +2,9 @@
 <!-- GitHub automatically switches based on the viewer's light/dark mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,100:22D3EE&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=94A3B8">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=0F172A&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=475569">
-  <img alt="Rishabh Yadav" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=0F172A&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=475569">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=0A101F&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=0A101F">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=FFFFFF">
+  <img alt="Rishabh Yadav" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=FFFFFF">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -21,12 +21,12 @@
 
 <!-- Stats + Top languages — side by side -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rishabhyadavm07&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhyadavm07&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Rishabh's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=rishabhyadavm07&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=rishabhyadavm07&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Rishabh's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhyadavm07&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhyadavm07&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rishabhyadavm07&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rishabhyadavm07&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
 
 </div>
@@ -51,17 +51,17 @@
 <div align="center">
 
 <a href="https://github.com/rishabhyadavm07/Secure-Picks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhyadavm07&repo=Secure-Picks&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="48%"/>
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=rishabhyadavm07&repo=Secure-Picks&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="48%"/>
 </a>
 <a href="https://github.com/rishabhyadavm07/Secure-CI-CD-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhyadavm07&repo=Secure-CI-CD-Project&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="48%"/>
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=rishabhyadavm07&repo=Secure-CI-CD-Project&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="48%"/>
 </a>
 <br/>
 <a href="https://github.com/rishabhyadavm07/Screen-boundaries">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhyadavm07&repo=Screen-boundaries&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="48%"/>
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=rishabhyadavm07&repo=Screen-boundaries&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="48%"/>
 </a>
 <a href="https://github.com/rishabhyadavm07/NmapAutomation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhyadavm07&repo=NmapAutomation&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="48%"/>
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=rishabhyadavm07&repo=NmapAutomation&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="48%"/>
 </a>
 
 </div>
