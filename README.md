@@ -2,9 +2,9 @@
 <!-- GitHub automatically switches based on the viewer's light/dark mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=0A101F&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=0A101F">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=FFFFFF">
-  <img alt="Rishabh Yadav" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=55&descSize=18&descColor=FFFFFF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=22D3EE&fontAlignY=45&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=70&descSize=18&descColor=22D3EE">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=70&descSize=18&descColor=FFFFFF">
+  <img alt="Rishabh Yadav" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=70&descSize=18&descColor=FFFFFF">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
