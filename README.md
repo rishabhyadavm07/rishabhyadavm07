@@ -26,19 +26,6 @@
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/output/snake-light.svg" />
-</picture>
-
-</div>
-
-<!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
 
