@@ -1,7 +1,11 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically switches based on the viewer's light/dark mode -->
 
-<img alt="Rishabh Yadav" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=220&section=header&text=Rishabh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Security%20Research%20Analyst%20%7C%20Cloud%20%26%20SaaS%20Security&descAlignY=70&descSize=18&descColor=FFFFFF" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/hero-light.svg">
+  <img alt="Rishabh Yadav" width="100%" src="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/hero-light.svg">
+</picture>
 
 <!-- ===== GITHUB STATS ===== -->
 
