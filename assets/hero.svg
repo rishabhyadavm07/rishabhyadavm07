@@ -38,7 +38,7 @@
 <rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
 <rect x="36" y="84" width="400" height="492" rx="10" fill="#0A101F" stroke="rgba(34,211,238,0.35)"/>
 <g clip-path="url(#avatarClip)">
-<image x="36" y="84" width="400" height="492" preserveAspectRatio="xMidYMid slice" xlink:href="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/portrait.png"/>
+<image x="36" y="84" width="400" height="492" preserveAspectRatio="xMidYMid slice" href="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/portrait.png" xlink:href="https://raw.githubusercontent.com/rishabhyadavm07/rishabhyadavm07/main/assets/portrait.png"/>
 </g>
 
 <text x="470" y="106" font-size="13" letter-spacing="2" fill="#22D3EE" filter="url(#txtGlow)">SYSTEM.INFO</text>
